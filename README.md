@@ -1,7 +1,5 @@
 # Data Mastery
-
-A portfolio of projects demonstrating my skills in data analysis, preprocessing, and exploratory data analysis (EDA).
-
+This repository provides a vibrant collection of exploratory data analyses (EDAs) aimed at unlocking insights from diverse datasets, honing data analysis techniques, uncovering patterns, and enhancing your data storytelling skills.. 
 ## Projects
 
 ### [EDA Project 1](./EDA-Project-1/README.md)
